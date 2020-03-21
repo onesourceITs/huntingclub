@@ -1,0 +1,30 @@
+{
+    "title": "HuntingClub",
+    "name": "HuntingClub",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node_modules/.bin/gulp watch"
+    },
+    "description": "A website demo, for hunting clubs.",
+    "keywords": [
+        "hunting",
+        "club",
+        "hunting club",
+        "deer",
+        "turkey",
+        "hunting deer and turkey"
+    ],
+    "homepage": "huntingclub.onesourceits.com",
+    "license": "MIT",
+    "author": "Keith Blackwelder",
+    "dependencies": {
+        "bootstrap": "4.3.1",
+        "jquery": "3.4.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.7",
+        "del": "^4.1.1",
+        "gulp": "4.0.2",
+        "merge-stream": "2.0.0"
+    }
+}
