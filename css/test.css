@@ -1,23 +1,8 @@
-.boxone {
-    width: 150px;
-    height: 150px;
-    margin: auto;
-    padding: 10px;
-    background-color: #78866b;
+.bg-dark {
+    background-color: #765c48 !important;
 }
 
-.boxtwo {
-    width: 150px;
-    padding: 10px;
-    height: 150px;
-    margin: auto;
-    background-color: #4f4d32;
-}
-
-.boxthree {
-    width: 150px;
-    padding: 10px;
-    height: 150px;
-    margin: auto;
-    background-color: #765c48;
+.bg-secondary {
+    background-color: #4f4d32 !important;
+    color: #ffffff !important;
 }
