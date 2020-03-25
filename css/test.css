@@ -6,3 +6,7 @@
     background-color: #4f4d32 !important;
     color: #ffffff !important;
 }
+
+.text-muted, .h2-dark{
+    color:#765c48 !important;
+}
