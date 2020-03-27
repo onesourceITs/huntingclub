@@ -6,7 +6,7 @@ function htmlHeadingTwo() {
     return heading;
 }
 
-var countDownTo = new Date("2020-04-30 13:00:00").getTime();
+var countDownTo = new Date("2020-04-30T13:00:00").getTime();
 
 var handleCount = setInterval(function () {
     var now = new Date().getTime();
